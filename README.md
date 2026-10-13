@@ -1,17 +1,44 @@
-# mini_katalog
+# Mini Katalog Uygulaması
 
-A new Flutter project.
+## Proje Açıklaması
+Mini Katalog, Flutter kullanılarak geliştirilen bir mobil ürün katalog uygulamasıdır. Uygulamada ürünler listelenebilir, ürün detayları görüntülenebilir, ürün araması yapılabilir ve kategorilere göre filtreleme gerçekleştirilebilir. Kullanıcılar ürünleri sepete ekleyebilir ve sepetten çıkarabilir.
 
-## Getting Started
+## Kullanılan Teknolojiler
+- Flutter
+- Dart
+- JSON
 
-This project is a starting point for a Flutter application.
+## Flutter Sürümü
+Flutter sürümünü öğrenmek için terminalde aşağıdaki komut çalıştırılabilir:
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+flutter --version
+```
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Kurulum ve Çalıştırma
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Projeyi bilgisayarınıza indirin veya klonlayın.
+2. Proje klasöründe terminali açın.
+3. Gerekli paketleri yükleyin:
+
+```bash
+flutter pub get
+```
+
+4. Uygulamayı çalıştırın:
+
+```bash
+flutter run
+```
+
+Web tarayıcısında çalıştırmak için:
+
+```bash
+flutter run -d chrome
+```
+
+## Proje Dosyaları
+- `lib/main.dart`: Uygulamanın ana kodları.
+- `lib/assets/products.json`: Ürün bilgilerini içeren JSON dosyası.
+- `pubspec.yaml`: Proje yapılandırması ve bağımlılıklar.
+
