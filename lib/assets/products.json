@@ -1,0 +1,46 @@
+
+[
+  {
+    "name": "Kablosuz Kulaklık",
+    "category": "Elektronik",
+    "price": "1.499 TL",
+    "description": "Günlük kullanım için konforlu, kablosuz ve şık tasarımlı kulaklık.",
+    "imageUrl": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?auto=format&fit=crop&w=900&h=900&q=90"
+  },
+  {
+    "name": "Akıllı Saat",
+    "category": "Giyilebilir Teknoloji",
+    "price": "2.299 TL",
+    "description": "Sağlık takibi ve günlük bildirimler için akıllı saat.",
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&h=900&q=90"
+  },
+  {
+    "name": "Dizüstü Bilgisayar",
+    "category": "Bilgisayar",
+    "price": "18.999 TL",
+    "description": "Eğitim, çalışma ve günlük kullanım için dizüstü bilgisayar.",
+    "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&h=900&q=90"
+  },
+  {
+    "name": "Bluetooth Hoparlör",
+    "category": "Ses Sistemleri",
+    "price": "999 TL",
+    "description": "Kompakt tasarımlı ve taşınabilir Bluetooth hoparlör.",
+    "imageUrl": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?auto=format&fit=crop&w=900&h=900&q=90"
+  },
+  {
+    "name": "Tablet",
+    "category": "Elektronik",
+    "price": "8.499 TL",
+    "description": "Not almak, içerik tüketmek ve günlük işler için tablet.",
+    "imageUrl": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=900&h=900&q=90"
+  },
+  {
+    "name": "Fotoğraf Makinesi",
+    "category": "Fotoğrafçılık",
+    "price": "12.499 TL",
+    "description": "Özel anları yakalamak için dijital fotoğraf makinesi.",
+    "imageUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&h=900&q=90"
+  }
+]
+
